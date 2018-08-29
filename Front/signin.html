@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>ToDo Application</title>
+    <title>Microservice Application</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.6.0/css/bulma.css">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
@@ -51,7 +51,7 @@
 
     <div class="box has-text-centered">
 
-        <h3 class="subtitle"><b>My ToDos</b></h3>
+        <h3 class="subtitle"><b>My Micro</b></h3>
 
         <table class="table is-striped" style="margin: 0px auto;">
             <thead>
@@ -63,7 +63,7 @@
                 <td>DELETE</td>
             </tr>
             </thead>
-            <tbody id="bodyTableToDos">
+            <tbody id="bodyTableMicro">
             <tr>
                 <th>1</th>
                 <td>First Description</td>
@@ -100,7 +100,7 @@
         <div class="field has-addons">
             <p class="control">
                <span class="select">
-                  <select id="newToDoPriority">
+                  <select id="newMicroPriority">
                     <option name="priority" value="" disabled selected>Priority</option>
                     <option value="high">high</option>
                     <option value="low">low</option>
@@ -108,12 +108,12 @@
                </span>
             </p>
             <p class="control is-expanded">
-                <input class="input" id="newToDoDescription" type="text" placeholder="Description of ToDo"/>
+                <input class="input" id="newMicroDescription" type="text" placeholder="Description of Micro"/>
             </p>
-            <input type="hidden" id="newToDoEmail" value=""/>
+            <input type="hidden" id="newMicroEmail" value=""/>
             <p class="control">
-                <a class="button is-primary" id="newToDo">
-                    New To Do
+                <a class="button is-primary" id="newMicro">
+                    New Micro
                 </a>
             </p>
         </div>
