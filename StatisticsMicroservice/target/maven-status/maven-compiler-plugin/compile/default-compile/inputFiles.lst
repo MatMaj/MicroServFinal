@@ -1,0 +1,7 @@
+/home/mateusz/Desktop/StatisticsMicroservice/src/main/java/com/microservice/MicroserviceProject/StatisticsMicroservice/entities/Statistics.java
+/home/mateusz/Desktop/StatisticsMicroservice/src/main/java/com/microservice/MicroserviceProject/StatisticsMicroservice/daos/StatisticsDao.java
+/home/mateusz/Desktop/StatisticsMicroservice/src/main/java/com/microservice/MicroserviceProject/StatisticsMicroservice/utilities/JsonResponseBody.java
+/home/mateusz/Desktop/StatisticsMicroservice/src/main/java/com/microservice/MicroserviceProject/StatisticsMicroservice/StatisticsMicroserviceApplication.java
+/home/mateusz/Desktop/StatisticsMicroservice/src/main/java/com/microservice/MicroserviceProject/StatisticsMicroservice/services/StatisticsServiceImpl.java
+/home/mateusz/Desktop/StatisticsMicroservice/src/main/java/com/microservice/MicroserviceProject/StatisticsMicroservice/services/StatisticsService.java
+/home/mateusz/Desktop/StatisticsMicroservice/src/main/java/com/microservice/MicroserviceProject/StatisticsMicroservice/controllers/RestController.java
